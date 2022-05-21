@@ -15,7 +15,11 @@
         <module>service_crawler</module>
     </modules>
     <dependencies>
-
+        <dependency>
+            <groupId>com.yitong</groupId>
+            <artifactId>service_base</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
 
 
         <!--<dependency>
